@@ -49,5 +49,5 @@ Each package owns only this provider and its passive documentation. Its `Replace
 ## Two installed files
 
 This clock installs one .so in /System/Resources/Clocks/ and one illustrated
-public PDF in /System/Resources/Documentation/Clock-Standard-12/.
+public PDF in /System/Resources/Documentation/Clock-Standard-12.pdf.
 Engineering documentation is GitHub-only and native provenance is in dpkg.
